@@ -56,13 +56,15 @@
 ---
 ####弹窗插件
 * Version: 1.8.5
+* Github: https://github.com/sentsin/layer
 * Website: http://layer.layui.com/1.8.5/
 
 ### *switchable*
 ---
-#### 
-* Version: 
-* Website: http://
+#### 标签切换、轮播图、手风琴 4 合 1
+* Version: 2.0
+* Github: https://github.com/jsw0528/jQuery.Switchable
+* Website: http://switchable.mrzhang.me/
 
 ### *fullPage*
 ---
