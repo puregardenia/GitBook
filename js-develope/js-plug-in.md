@@ -50,6 +50,9 @@
 ---
 ### *FancyRadioCheckBox*
 ---
+* Version: 
+* Github:
+* Website:
 ### *alertify*
 ---
 ### *layer*
@@ -61,7 +64,7 @@
 
 ### *switchable*
 ---
-#### 标签切换、轮播图、手风琴 4 合 1
+#### 标签切换、轮播图、幻灯片、手风琴 4合1
 * Version: 2.0
 * Github: https://github.com/jsw0528/jQuery.Switchable
 * Website: http://switchable.mrzhang.me/
