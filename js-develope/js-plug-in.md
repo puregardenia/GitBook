@@ -1,5 +1,5 @@
 # JS插件说明
-## common
+## COMMON
 ### *urlParam*
 ---
 
@@ -7,25 +7,46 @@
 ---
 
 
-##lib
+## LIB
 
 ### *tools*
+---
 
 ### *jquery*
-
+---
 ### *$.cookie*
-
+---
 ### *jquery.query*
-
+---
 ### *placeholder*
-
+---
 ### *animateColor*
-
+---
 ### *animateNumber*
-
+---
 ### *Amcharts*
-
+---
 ### *serial*
+---
+### *customSelect*
+---
+### *spinner*
+---
+### *FancyRadioCheckBox*
+---
+### *alertify*
+---
+### *layer*
+---
+### *switchable*
+---
 
-### 
+### *fullPage*
+---
 
+### *fullPageCss*
+---
+### *jquery.event.move*
+---
+### *jquery.twentytwenty*
+---
