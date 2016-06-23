@@ -14,6 +14,9 @@
 
 ### *jquery*
 ---
+* version: 1.8.3
+
+
 ### *$.cookie*
 ---
 ### *jquery.query*
