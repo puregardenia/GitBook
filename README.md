@@ -1,3 +1,3 @@
-# Esh Develope Manual
+# Esh Develope Manual(易上弘开发说明手册)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
