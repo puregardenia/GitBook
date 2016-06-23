@@ -54,11 +54,15 @@
 ---
 ### *layer*
 ---
+####弹窗插件
 * Version: 1.8.5
 * Website: http://layer.layui.com/1.8.5/
 
 ### *switchable*
 ---
+#### 
+* Version: 
+* Website: http://
 
 ### *fullPage*
 ---
