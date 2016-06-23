@@ -16,10 +16,17 @@
 ---
 * version: 1.8.3
 * usage:
-
+  * demo1
   ```
-  seajs.use(['jquery'],function($){
+  seajs.use('jquery',function($){
     $('.demo').hide();
+  });
+  ```
+  * demo2
+  ```
+  seajs.use(['jquery','animateColor']function($,animateColor){
+    $('.demo').hide();
+    
   });
   ```
 
