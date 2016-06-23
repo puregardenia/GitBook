@@ -15,7 +15,11 @@
 ### *jquery*
 ---
 * version: 1.8.3
+* usage:
 
+  `` 
+  seajs.use(function(){});
+  `` 
 
 ### *$.cookie*
 ---
