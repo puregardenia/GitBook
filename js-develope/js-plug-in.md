@@ -16,13 +16,13 @@
 ---
 * Version: 1.8.3
 * Usage:
-  * Demo1
+  *  示例一
   ```
   seajs.use('jquery',function($){
     $('.demo').hide();
   });
   ```
-  * Demo2
+  *  示例二
   ```
     seajs.use(['jquery','animateColor']function($,animateColor){
       $('.demo').hide();
@@ -54,8 +54,8 @@
 ---
 ### *layer*
 ---
-* Version: 1.8.3
-* Website: http://www.layer.layerui.com
+* Version: 1.8.5
+* Website: http://layer.layui.com/1.8.5/
 
 ### *switchable*
 ---
