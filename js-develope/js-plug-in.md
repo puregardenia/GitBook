@@ -1,18 +1,18 @@
-# JS插件说明
-## COMMON
-### *urlParam*
+## JS插件说明
+### COMMON
+#### *urlParam*
 ---
 
-### *tools*
+#### *tools*
 ---
 
 
-## LIB
+### LIB
 
-### *tools*
+#### *tools*
 ---
 
-### *jquery*
+#### *jquery*
 ---
 * Version: 1.8.3
 * Usage:
@@ -30,41 +30,41 @@
     });
   ```
 
-### *$.cookie*
+#### *$.cookie*
 ---
-### *jquery.query*
+#### *jquery.query*
 ---
-### *placeholder*
+#### *placeholder*
 ---
-### *animateColor*
+#### *animateColor*
 ---
-### *animateNumber*
+#### *animateNumber*
 ---
-### *Amcharts*
+#### *Amcharts*
 ---
-### *serial*
+#### *serial*
 ---
-### *customSelect*
+#### *customSelect*
 ---
-### *spinner*
+#### *spinner*
 ---
-### *FancyRadioCheckBox*
+#### *FancyRadioCheckBox*
 ---
 * Version: 
 * Github:
 * Website:
-### *alertify*
+#### *alertify*
 ---
-### *layer*
+#### *layer*
 ---
-####弹窗插件
+##### 弹窗插件
 * Version: 1.8.5
 * Github: https://github.com/sentsin/layer
 * Website: http://layer.layui.com/1.8.5/
 
-### *switchable*
+#### *switchable*
 ---
-#### 标签切换、轮播图、幻灯片、手风琴 4合1
+##### 标签切换、轮播图、幻灯片、手风琴 4合1
 * Version: 2.0
 * Github: https://github.com/jsw0528/jQuery.Switchable
 * Website: http://switchable.mrzhang.me/
@@ -93,12 +93,12 @@
  
   ![幻灯片](2016-06-23_142510.png)
 
-### *fullPage*
+#### *fullPage*
 ---
 
-### *fullPageCss*
+#### *fullPageCss*
 ---
-### *jquery.event.move*
+#### *jquery.event.move*
 ---
-### *jquery.twentytwenty*
+#### *jquery.twentytwenty*
 ---
