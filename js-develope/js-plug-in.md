@@ -14,20 +14,20 @@
 
 ### *jquery*
 ---
-* version: 1.8.3
-* usage:
-  * demo1
+* Version: 1.8.3
+* Usage:
+  * Demo1
   ```
   seajs.use('jquery',function($){
     $('.demo').hide();
   });
   ```
-  * demo2
+  * Demo2
   ```
-  seajs.use(['jquery','animateColor']function($,animateColor){
-    $('.demo').hide();
-    
-  });
+    seajs.use(['jquery','animateColor']function($,animateColor){
+      $('.demo').hide();
+      $('.header a').animate({color: '#fff'},500);
+    });
   ```
 
 ### *$.cookie*
@@ -54,6 +54,9 @@
 ---
 ### *layer*
 ---
+* Version: 1.8.3
+* Website: http://www.layer.layerui.com
+
 ### *switchable*
 ---
 
