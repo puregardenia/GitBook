@@ -18,5 +18,5 @@
        * [tip](js-develope/js-plugin/tip.md)
        * [layer](js-develope/js-plugin/layer.md)
        * [laydate](js-develope/js-plugin/laydate.md)
-       * switchable
+       * [switchable](js-develope/js-plugin/switchable.md)
 
