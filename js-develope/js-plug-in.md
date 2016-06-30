@@ -59,9 +59,9 @@
 #### *Amcharts*
 ---
 * Version: 
-* Github: 
 * Website: https://www.amcharts.com/
 * LiveEditor: https://live.amcharts.com/
+* Docs: https://docs.amcharts.com/3/
 #### *serial*
 ---
 * Version: 
