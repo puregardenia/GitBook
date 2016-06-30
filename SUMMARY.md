@@ -14,5 +14,5 @@
        * [customSelect](js-develope/js-plugin/customselect.md)
        * [snipe](js-develope/js-plugin/snipe.md)
        * [spinner](js-develope/js-plugin/spinner.md)
-       * FancyRadioCheckBox
+       * [FancyRadioCheckBox](js-develope/js-plugin/fancyradiocheckbox.md)
 
