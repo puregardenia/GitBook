@@ -20,4 +20,5 @@
        * [laydate](js-develope/js-plugin/laydate.md)
        * [switchable](js-develope/js-plugin/switchable.md)
        * [fullPage](js-develope/js-plugin/fullpage.md)
+       * jquery.event.move
 
