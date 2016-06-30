@@ -13,5 +13,5 @@
        * [Amcharts、serial](js-develope/js-plugin/amcharts-serial.md)
        * [customSelect](js-develope/js-plugin/customselect.md)
        * [snipe](js-develope/js-plugin/snipe.md)
-       * spinner
+       * [spinner](js-develope/js-plugin/spinner.md)
 
