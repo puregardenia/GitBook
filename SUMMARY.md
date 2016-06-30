@@ -10,4 +10,5 @@
        * [placeholder](js-develope/js-plugin/placeholder.md)
        * [animateColor](js-develope/js-plugin/animatecolor.md)
        * [animateNumber](js-develope/js-plugin/animatenumber.md)
+       * Amcharts、serial
 
