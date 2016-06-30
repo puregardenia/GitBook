@@ -18,5 +18,4 @@
        * [tip](js-develope/js-plugin/tip.md)
        * [layer](js-develope/js-plugin/layer.md)
        * laydate
-       * laydate
 
