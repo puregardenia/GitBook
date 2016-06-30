@@ -1,4 +1,5 @@
 ## JS插件说明
+---
 ### COMMON
 #### *urlParam*
 ---
@@ -32,22 +33,49 @@
 
 #### *$.cookie*
 ---
+* Version: 
+* Github:
+* Website:
 #### *jquery.query*
 ---
+* Version: 
+* Github:
+* Website:
 #### *placeholder*
 ---
+* Version: 
+* Github:
+* Website:
 #### *animateColor*
 ---
+* Version: 
+* Github:
+* Website:
 #### *animateNumber*
 ---
+* Version: 
+* Github:
+* Website:
 #### *Amcharts*
 ---
+* Version: 
+* Github:
+* Website:
 #### *serial*
 ---
+* Version: 
+* Github:
+* Website:
 #### *customSelect*
 ---
+* Version: 
+* Github:
+* Website:
 #### *spinner*
 ---
+* Version: 
+* Github:
+* Website:
 #### *FancyRadioCheckBox*
 ---
 * Version: 
