@@ -9,5 +9,5 @@
        * [jquery.query](js-develope/js-plugin/jqueryquery.md)
        * [placeholder](js-develope/js-plugin/placeholder.md)
        * [animateColor](js-develope/js-plugin/animatecolor.md)
-       * animateNumber
+       * [animateNumber](js-develope/js-plugin/animatenumber.md)
 
