@@ -56,6 +56,7 @@
 * Version: 0.0.13
 * Github: https://github.com/aishek/jquery-animateNumber
 * Website: http://aishek.github.io/jquery-animateNumber/
+* CDN: ```<script src="//cdn.jsdelivr.net/jquery.color-animation/1/mainfile"></script>```
 #### *Amcharts*
 ---
 * Version: 
@@ -70,8 +71,8 @@
 #### *customSelect*
 ---
 * Version: 
-* Github: 
-* Website: 
+* Github: https://github.com/adamcoulombe/jquery.customSelect
+* LiveEditor: http://jsfiddle.net/adamco/7ttWj/
 #### *spinner*
 ---
 * Version: 
