@@ -16,4 +16,5 @@
        * [spinner](js-develope/js-plugin/spinner.md)
        * [FancyRadioCheckBox](js-develope/js-plugin/fancyradiocheckbox.md)
        * [tip](js-develope/js-plugin/tip.md)
+       * layer
 
