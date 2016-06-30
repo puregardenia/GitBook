@@ -2,7 +2,7 @@
 ---
 > 自定义下拉菜单
 
-* Version:
+* Version: *
 * Github: https://github.com/adamcoulombe/jquery.customSelect
 * LiveEditor: http://jsfiddle.net/adamco/7ttWj/
 * Usage:
