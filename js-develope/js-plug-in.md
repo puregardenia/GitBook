@@ -40,7 +40,7 @@
 ---
 * Version: 
 * Github:
-* Website: http://www.bitstorm.org/jquery/color-animation/
+* Website: 
 #### *placeholder*
 ---
 * Version: 
@@ -50,7 +50,7 @@
 ---
 * Version: 
 * Github: https://github.com/edwinm/Color-animation-jQuery-plugin
-* Website: 
+* Website: http://www.bitstorm.org/jquery/color-animation/
 #### *animateNumber*
 ---
 * Version: 
