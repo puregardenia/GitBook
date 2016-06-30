@@ -6,4 +6,5 @@
    * [JS插件说明](js-develope/js-plugin.md)
        * [jquery](js-develope/plugin/jquery.md)
        * [cookie](js-develope/js-plugin/cookie.md)
+       * jquery.query
 
