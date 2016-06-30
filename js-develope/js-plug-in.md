@@ -55,7 +55,7 @@
 ---
 * Version: 0.0.13
 * Github: https://github.com/aishek/jquery-animateNumber
-* Website:
+* Website: http://aishek.github.io/jquery-animateNumber/
 #### *Amcharts*
 ---
 * Version: 
