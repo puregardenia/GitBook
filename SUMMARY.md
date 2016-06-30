@@ -21,4 +21,5 @@
        * [switchable](js-develope/js-plugin/switchable.md)
        * [fullPage](js-develope/js-plugin/fullpage.md)
        * [jquery.event.move](js-develope/js-plugin/jqueryeventmove.md)
+       * jquery.twentytwenty
 
