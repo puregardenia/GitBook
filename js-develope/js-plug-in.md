@@ -53,7 +53,7 @@
 * Website: http://www.bitstorm.org/jquery/color-animation/
 #### *animateNumber*
 ---
-* Version: 
+* Version: 0.0.13
 * Github:
 * Website:
 #### *Amcharts*
