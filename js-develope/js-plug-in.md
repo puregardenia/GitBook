@@ -59,32 +59,39 @@
 #### *Amcharts*
 ---
 * Version: 
-* Github:
-* Website:
+* Github: 
+* Website: https://www.amcharts.com/
+* LiveEditor: https://live.amcharts.com/
 #### *serial*
 ---
 * Version: 
-* Github:
-* Website:
+* Github: 
+* Website: 
 #### *customSelect*
 ---
 * Version: 
-* Github:
-* Website:
+* Github: 
+* Website: 
 #### *spinner*
 ---
 * Version: 
-* Github:
-* Website:
+* Github: 
+* Website: 
 #### *FancyRadioCheckBox*
 ---
 * Version: 
-* Github:
-* Website:
+* Github: 
+* Website: 
 #### *alertify*
 ---
+* Version: 
+* Github: 
+* Website: 
 #### *layer*
 ---
+* Version: 
+* Github: 
+* Website: 
 ##### 弹窗插件
 * Version: 1.8.5
 * Github: https://github.com/sentsin/layer
@@ -104,5 +111,11 @@
 ---
 #### *jquery.event.move*
 ---
+* Version: 
+* Github: 
+* Website: 
 #### *jquery.twentytwenty*
 ---
+* Version: 
+* Github: 
+* Website: 
