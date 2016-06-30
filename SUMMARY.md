@@ -19,5 +19,5 @@
        * [layer](js-develope/js-plugin/layer.md)
        * [laydate](js-develope/js-plugin/laydate.md)
        * [switchable](js-develope/js-plugin/switchable.md)
-       * fullPage
+       * [fullPage](js-develope/js-plugin/fullpage.md)
 
