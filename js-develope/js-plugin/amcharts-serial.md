@@ -1,0 +1,2 @@
+# Amcharts、serial
+
