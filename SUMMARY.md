@@ -8,4 +8,5 @@
        * [cookie](js-develope/js-plugin/cookie.md)
        * [jquery.query](js-develope/js-plugin/jqueryquery.md)
        * [placeholder](js-develope/js-plugin/placeholder.md)
+       * animateColor
 
