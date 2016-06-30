@@ -17,4 +17,5 @@
        * [FancyRadioCheckBox](js-develope/js-plugin/fancyradiocheckbox.md)
        * [tip](js-develope/js-plugin/tip.md)
        * [layer](js-develope/js-plugin/layer.md)
+       * laydate
 
