@@ -15,4 +15,5 @@
        * [snipe](js-develope/js-plugin/snipe.md)
        * [spinner](js-develope/js-plugin/spinner.md)
        * [FancyRadioCheckBox](js-develope/js-plugin/fancyradiocheckbox.md)
+       * tip
 
