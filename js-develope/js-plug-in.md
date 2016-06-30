@@ -48,7 +48,7 @@
 * Website:
 #### *animateColor*
 ---
-* Version: 
+* Version: 1.6.0
 * Github: https://github.com/edwinm/Color-animation-jQuery-plugin
 * Website: http://www.bitstorm.org/jquery/color-animation/
 #### *animateNumber*
