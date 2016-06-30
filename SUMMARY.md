@@ -11,5 +11,5 @@
        * [animateColor](js-develope/js-plugin/animatecolor.md)
        * [animateNumber](js-develope/js-plugin/animatenumber.md)
        * [Amcharts、serial](js-develope/js-plugin/amcharts-serial.md)
-       * customSelect
+       * [customSelect](js-develope/js-plugin/customselect.md)
 
