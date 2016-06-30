@@ -2,7 +2,7 @@
 ---
 > 美化单选复选框插件
 
-* Version:
+* Version: *
 * Github:
 * Website:
 * Require: ``.label_radio、.label_check``
