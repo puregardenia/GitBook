@@ -2,7 +2,8 @@
 ---
 > 数字加减插件
 
-* 参数：
+* 参数
+
   ```
   var defaults = {
       value: 1, //当前值
@@ -13,6 +14,7 @@
   };
   ```
 * Usage
+
   ```
   $('#abb-spinner').spinner({
     min:1,
