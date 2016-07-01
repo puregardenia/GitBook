@@ -1,3 +1,1 @@
-# Esh Develope Manual(易上弘开发说明手册)1234
-
-
+# Esh Develope Manual(易上弘开发说明手册)
