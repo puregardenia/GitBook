@@ -6,6 +6,7 @@
 * Github: https://github.com/edwinm/Color-animation-jQuery-plugin
 * Website: http://www.bitstorm.org/jquery/color-animation/
 * Usage:
+
   ```
   $('#demodiv').animate({color: '#E4D8B8'},500);
   $('#demodiv').animate({backgroundColor: '#400101'},1000);
