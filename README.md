@@ -1,1 +1,1 @@
-# Esh Develope Manual(易上弘开发说明手册2
+# Esh Develope Manual(易上弘开发说明手册
