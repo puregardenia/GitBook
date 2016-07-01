@@ -6,6 +6,7 @@
 * Github:
 * Website:
 * Require: ``.label_radio、.label_check``
+
   ```
   <label class="label_radio">
     <input name="radio1" type="radio" checked="checked"/>
@@ -17,6 +18,7 @@
   </label>
   ```
 * Usage:
+
   ```
   FancyRadioCheckBox.init();
   ```
