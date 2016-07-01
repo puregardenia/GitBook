@@ -13,8 +13,8 @@
   ```
   *  示例二
   ```
-    seajs.use(['jquery','animateColor']function($,animateColor){
-      $('.demo').hide();
-      $('.header a').animate({color: '#fff'},500);
-    });
+  seajs.use(['jquery','animateColor']function($,animateColor){
+    $('.demo').hide();
+    $('.header a').animate({color: '#fff'},500);
+  });
   ```
