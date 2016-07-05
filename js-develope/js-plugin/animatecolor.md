@@ -1,4 +1,4 @@
-# animateColor
+## animateColor
 
 > 颜色渐变插件
 
