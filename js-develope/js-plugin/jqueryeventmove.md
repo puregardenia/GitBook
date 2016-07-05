@@ -29,24 +29,27 @@ Fired following mousedown or touchstart, when the pointer crosses a threshold di
 
 #### move
 
-  Fired on every animation frame where a mousemove or touchmove has changed the cursor position.
-**moveend**
+Fired on every animation frame where a mousemove or touchmove has changed the cursor position.
 
-  Fired following mouseup or touchend, after the last move event, and in the case of touch events when the finger that started the move has been lifted.
-  Move event objects are augmented with the properties:
+#### moveend
 
-**e.pageX** **e.pageY**
+Fired following mouseup or touchend, after the last move event, and in the case of touch events when the finger that started the move has been lifted.
 
-  Current page coordinates of pointer.
+Move event objects are augmented with the properties:
 
-**e.startX** **e.startY**
-
-  Page coordinates the pointer had at movestart.
-
-**e.deltaX** **e.deltaY**
-
-  Distance the pointer has moved since movestart.
-
-**e.velocityX** **e.velocityY**
-
-  Velocity in pixels/ms, averaged over the last few events.
+  1. e.pageX  e.pageY
+```
+    Current page coordinates of pointer.
+```
+  1. e.startX e.startY
+```
+    Page coordinates the pointer had at movestart.
+```
+  1. e.deltaX e.deltaY
+```
+    Distance the pointer has moved since movestart.
+```
+  1. e.velocityX e.velocityY
+```
+    Velocity in pixels/ms, averaged over the last few events.
+```
