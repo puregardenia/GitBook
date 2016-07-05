@@ -1,5 +1,5 @@
-#### *jquery.twentytwenty*
----
+# jquery.twentytwenty
+
 > 图片对比插件(有改动)
 
 * Version: *
