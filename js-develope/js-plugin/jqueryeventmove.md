@@ -38,6 +38,7 @@ Fired following mouseup or touchend, after the last move event, and in the case 
 Move event objects are augmented with the properties:
 
 1. e.pageX  e.pageY
+
 ```
 Current page coordinates of pointer.
 ```
@@ -48,11 +49,13 @@ Page coordinates the pointer had at movestart.
 ```
 
 3. e.deltaX e.deltaY
+
 ```
 Distance the pointer has moved since movestart.
 ```
 
 4. e.velocityX e.velocityY
+
 ```
 Velocity in pixels/ms, averaged over the last few events.
 ```
