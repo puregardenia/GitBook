@@ -1,4 +1,4 @@
-# FancyRadioCheckBox
+## FancyRadioCheckBox
 
 > 美化单选复选框插件
 
