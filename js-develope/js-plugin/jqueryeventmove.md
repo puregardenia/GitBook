@@ -35,7 +35,7 @@ Fired on every animation frame where a mousemove or touchmove has changed the cu
 
 Fired following mouseup or touchend, after the last move event, and in the case of touch events when the finger that started the move has been lifted.
 
-Move event objects are augmented with the ***properties:***
+Move event objects are augmented with the **properties:**
 
 e.pageX  e.pageY
 ```
