@@ -1,5 +1,5 @@
-#### *animateNumber*
----
+# animateNumber
+
 > 数字缓动插件
 
 * Version: 0.0.13
