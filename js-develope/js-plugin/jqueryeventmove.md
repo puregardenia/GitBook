@@ -21,13 +21,12 @@
   });
 ```
 
-##### API:
+### API:
 
-**movestart**
+#### movestart
 
 Fired following mousedown or touchstart, when the pointer crosses a threshold distance from the position of the mousedown or touchstart.
-
-**move**
+#### move
 
   Fired on every animation frame where a mousemove or touchmove has changed the cursor position.
 **moveend**
