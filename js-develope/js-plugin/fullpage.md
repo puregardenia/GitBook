@@ -1,5 +1,5 @@
-#### *fullPage*
----
+# fullPage
+
 > 全屏滚动插件
 
 * Version: 2.5.4
