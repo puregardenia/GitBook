@@ -1,5 +1,5 @@
-#### *tip*
----
+# tip
+
 > 提醒插件 ``PoshyTip``
 
 * Version: 1.0
