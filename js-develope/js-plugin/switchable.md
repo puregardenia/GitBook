@@ -1,5 +1,5 @@
-#### *switchable*
----
+# switchable
+
 > 标签切换、轮播图、幻灯片、手风琴 4合1
 
 * Version: 2.0
