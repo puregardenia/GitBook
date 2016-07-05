@@ -1,4 +1,4 @@
-# jquery.query
+## jquery.query
 
 > URL 查询插件
 
