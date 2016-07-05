@@ -39,20 +39,20 @@ Move event objects are augmented with the properties:
 
 1. e.pageX  e.pageY
 ```
-    Current page coordinates of pointer.
+Current page coordinates of pointer.
 ```
 
-1. e.startX e.startY
+2. e.startX e.startY
 ```
-    Page coordinates the pointer had at movestart.
-```
-
-1. e.deltaX e.deltaY
-```
-    Distance the pointer has moved since movestart.
+Page coordinates the pointer had at movestart.
 ```
 
-1. e.velocityX e.velocityY
+3. e.deltaX e.deltaY
 ```
-    Velocity in pixels/ms, averaged over the last few events.
+Distance the pointer has moved since movestart.
+```
+
+4. e.velocityX e.velocityY
+```
+Velocity in pixels/ms, averaged over the last few events.
 ```
