@@ -1,4 +1,4 @@
-# spinner
+## spinner
 
 > 数字加减插件
 
