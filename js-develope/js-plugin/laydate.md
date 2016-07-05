@@ -1,5 +1,5 @@
-#### *laydate*
----
+# laydate
+
 > 日历弹窗插件
 
 * Version: 1.1
