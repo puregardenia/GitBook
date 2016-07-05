@@ -23,5 +23,5 @@
        * [fullPage](js-develope/js-plugin/fullpage.md)
        * [jquery.event.move](js-develope/js-plugin/jqueryeventmove.md)
        * [jquery.twentytwenty](js-develope/js-plugin/jquerytwentytwenty.md)
-       * lazyload
+       * [lazyload](js-develope/js-plugin/lazyload.md)
 
