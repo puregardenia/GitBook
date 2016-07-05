@@ -1,5 +1,5 @@
-#### *animateColor*
----
+# animateColor
+
 > 颜色渐变插件
 
 * Version: 1.6.0
