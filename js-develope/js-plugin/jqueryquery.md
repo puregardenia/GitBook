@@ -1,5 +1,5 @@
-#### *jquery.query*
----
+# jquery.query
+
 > URL 查询插件
 
 * Version: 2.2.3
