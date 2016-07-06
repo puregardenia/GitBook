@@ -1,13 +1,15 @@
 ## tools
 
-> 自定义常用工具，包含:
+> 自定义常用工具
 
-  * cookie 操作
-  * riqi
-  * url变量替换
-  * 数字小数位格式化
-  * 向浏览器添加一个样式表
-  * 验证组件
+** 包含: **
+
+  * `cookieHelp`:cookie 操作
+  * `riqi`
+  * `urlHelp`: url变量替换
+  * `formate`: 数字小数位格式化
+  * `addCss`: 向浏览器添加一个样式表
+  * `validate`: 验证组件
 
 ### cookieHelp
 
