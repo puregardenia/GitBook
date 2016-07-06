@@ -1,8 +1,13 @@
 ## tools
 
 > 自定义常用工具，包含:
+
   * cookie 操作
-  * 
+  * riqi
+  * url变量替换
+  * 数字小数位格式化
+  * 向浏览器添加一个样式表
+  * 验证组件
 
 ### cookieHelp
 
@@ -42,26 +47,6 @@ console.log(tool.urlHelp.replaceParam('a',10));
 // 输出 http://localhost:8180/html/demo/test.html?a=10&b=1
 ```
 
-### validate
-
-*** Usage ***
-
-```javascript
-tool.validtaePhoneNum
-tool.phoneRule
-~~tool.countdown~~
-tool.selectAllOrNone_ck(checkboxName,flag)    // 全选
-tool.validatePositiveNum(value)               // 验证正数 不包含0、负数
-tool.validateNum(value)                       // 验证数字包含负数 0
-tool.validateNum_plus(value)                  // 验证数字 不包含负数 包含0、整数、小数
-tool.validateNumPointNum(value,pointNum)           // 验证数字 可以是负数 小数 正数 ,自定义小数位数
-tool.validateNumPointNum_plus(value,pointNum)      //验证数字 可以 小数 正数 ,自定义小数位数
-tool.validateAllNum(value)                         // 验证数字 可以是负数 小数 正数
-tool.validatePositiveInt(value)                    // 大于0的整数
-
-bankCoardCheck(bankno)                        //银行卡校验
-```
-
 ### formate
 
 *** Usage ***
@@ -83,4 +68,24 @@ tool.toKeepDecimal2(x)
 
 ```JavaScript
 tool.addCss(cssText)
+```
+
+### validate
+
+*** Usage ***
+
+```javascript
+tool.validtaePhoneNum
+tool.phoneRule
+~~tool.countdown~~
+tool.selectAllOrNone_ck(checkboxName,flag)    // 全选
+tool.validatePositiveNum(value)               // 验证正数 不包含0、负数
+tool.validateNum(value)                       // 验证数字包含负数 0
+tool.validateNum_plus(value)                  // 验证数字 不包含负数 包含0、整数、小数
+tool.validateNumPointNum(value,pointNum)           // 验证数字 可以是负数 小数 正数 ,自定义小数位数
+tool.validateNumPointNum_plus(value,pointNum)      //验证数字 可以 小数 正数 ,自定义小数位数
+tool.validateAllNum(value)                         // 验证数字 可以是负数 小数 正数
+tool.validatePositiveInt(value)                    // 大于0的整数
+
+bankCoardCheck(bankno)                        //银行卡校验
 ```
