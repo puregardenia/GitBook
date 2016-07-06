@@ -89,5 +89,5 @@ tool.validate.NumPointNum_plus(value,pointNum)      //验证数字 可以 小数
 tool.validate.AllNum(value)                         // 验证数字 可以是负数 小数 正数
 tool.validate.PositiveInt(value)                    // 大于0的整数
 
-bankCoardCheck(bankno)                        //银行卡校验
+tool.bankCoardCheck(bankno)                        //银行卡校验
 ```
