@@ -4,9 +4,10 @@
   * cookie 操作
   * 
 
-### API
+### cookieHelp
 
-#### cookieHelp
+
+*** Usage ***
 
 ```javascript
 tool.cookieHelp.SetCookie('id',11);
@@ -15,11 +16,26 @@ tool.cookieHelp.DeleteCookie('id');
 tool.cookieHelp.getCookieVal(offset);
 ```
 
-** Usage **
+*** Demo ***
 
 ```javascript
 seajs.use('tools',function(tool){
       tool.cookieHelp.SetCookie('a',13);
       console.log(tool.cookieHelp.GetCookie('a'));
 }
+```
+### dateHelp
+
+*** Usage ***
+
+
+~~dateHelp.NewDate()~~
+
+
+### urlHelp
+
+*** Usage ***
+
+```javascript
+tool.urlHelp.replaceParam('a',10)
 ```
