@@ -41,3 +41,13 @@ seajs.use('tools',function(tool){
 console.log(tool.urlHelp.replaceParam('a',10));
 // 输出 http://localhost:8180/html/demo/test.html?a=10&b=1
 ```
+
+### validate
+
+*** Usage ***
+
+```javascript
+tool.validtaePhoneNum
+tool.phoneRule
+~~tool.countdown~~
+```
