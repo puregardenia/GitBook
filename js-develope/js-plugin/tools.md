@@ -37,5 +37,7 @@ seajs.use('tools',function(tool){
 *** Usage ***
 
 ```javascript
-tool.urlHelp.replaceParam('a',10)
+// url = http://localhost:8180/html/demo/test.html?a=20&b=1
+console.log(tool.urlHelp.replaceParam('a',10));
+// 输出 http://localhost:8180/html/demo/test.html?a=10&b=1
 ```
