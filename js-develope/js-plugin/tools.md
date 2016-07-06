@@ -81,13 +81,13 @@ tool.validtaePhoneNum
 tool.phoneRule
 ~~tool.countdown~~
 tool.selectAllOrNone_ck(checkboxName,flag)    // 全选
-tool.validatePositiveNum(value)               // 验证正数 不包含0、负数
-tool.validateNum(value)                       // 验证数字包含负数 0
-tool.validateNum_plus(value)                  // 验证数字 不包含负数 包含0、整数、小数
-tool.validateNumPointNum(value,pointNum)           // 验证数字 可以是负数 小数 正数 ,自定义小数位数
-tool.validateNumPointNum_plus(value,pointNum)      //验证数字 可以 小数 正数 ,自定义小数位数
-tool.validateAllNum(value)                         // 验证数字 可以是负数 小数 正数
-tool.validatePositiveInt(value)                    // 大于0的整数
+tool.validate.PositiveNum(value)               // 验证正数 不包含0、负数
+tool.validate.Num(value)                       // 验证数字包含负数 0
+tool.validate.Num_plus(value)                  // 验证数字 不包含负数 包含0、整数、小数
+tool.validate.NumPointNum(value,pointNum)           // 验证数字 可以是负数 小数 正数 ,自定义小数位数
+tool.validate.NumPointNum_plus(value,pointNum)      //验证数字 可以 小数 正数 ,自定义小数位数
+tool.validate.AllNum(value)                         // 验证数字 可以是负数 小数 正数
+tool.validate.PositiveInt(value)                    // 大于0的整数
 
 bankCoardCheck(bankno)                        //银行卡校验
 ```
