@@ -54,16 +54,23 @@ tool.selectAllOrNone_ck(checkboxName,flag)    // 全选
 tool.validatePositiveNum(value)               // 验证正数 不包含0、负数
 tool.validateNum(value)                       // 验证数字包含负数 0
 tool.validateNum_plus(value)                  // 验证数字 不包含负数 包含0、整数、小数
-validateNumPointNum(value,pointNum)           // 验证数字 可以是负数 小数 正数 ,自定义小数位数
-validateNumPointNum_plus(value,pointNum)      //验证数字 可以 小数 正数 ,自定义小数位数
-validateAllNum(value)                         // 验证数字 可以是负数 小数 正数
-validatePositiveInt(value)                    // 大于0的整数
+tool.validateNumPointNum(value,pointNum)           // 验证数字 可以是负数 小数 正数 ,自定义小数位数
+tool.validateNumPointNum_plus(value,pointNum)      //验证数字 可以 小数 正数 ,自定义小数位数
+tool.validateAllNum(value)                         // 验证数字 可以是负数 小数 正数
+tool.validatePositiveInt(value)                    // 大于0的整数
 
 bankCoardCheck(bankno)                        //银行卡校验
+```
 
+### formate
+
+*** Usage ***
+
+```javascript
 ///////////////////////格式化输入数字//////////////////////////////
-toDecimal2(x)        //强制保留2位小数，如：2，会在2后面补上00.即2.00
+tool.toDecimal2(x)        //强制保留2位小数，如：2，会在2后面补上00.即2.00
 
-toKeepDecimal2(x) 
-
+//如果小数位数大于2，保留2位小数，如：2.333，会即2.33 不四舍五入
+//如果小数位数小于2，如为2.3结果仍为2.3 不强制补0 不四舍五入
+tool.toKeepDecimal2(x) 
 ```
