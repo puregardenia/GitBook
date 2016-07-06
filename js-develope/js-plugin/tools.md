@@ -50,4 +50,20 @@ console.log(tool.urlHelp.replaceParam('a',10));
 tool.validtaePhoneNum
 tool.phoneRule
 ~~tool.countdown~~
+tool.selectAllOrNone_ck(checkboxName,flag)    // 全选
+tool.validatePositiveNum(value)               // 验证正数 不包含0、负数
+tool.validateNum(value)                       // 验证数字包含负数 0
+tool.validateNum_plus(value)                  // 验证数字 不包含负数 包含0、整数、小数
+validateNumPointNum(value,pointNum)           // 验证数字 可以是负数 小数 正数 ,自定义小数位数
+validateNumPointNum_plus(value,pointNum)      //验证数字 可以 小数 正数 ,自定义小数位数
+validateAllNum(value)                         // 验证数字 可以是负数 小数 正数
+validatePositiveInt(value)                    // 大于0的整数
+
+bankCoardCheck(bankno)                        //银行卡校验
+
+///////////////////////格式化输入数字//////////////////////////////
+toDecimal2(x)        //强制保留2位小数，如：2，会在2后面补上00.即2.00
+
+toKeepDecimal2(x) 
+
 ```
