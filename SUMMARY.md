@@ -24,5 +24,5 @@
        * [jquery.event.move](js-develope/js-plugin/jqueryeventmove.md)
        * [jquery.twentytwenty](js-develope/js-plugin/jquerytwentytwenty.md)
        * [jquery.lazyload](js-develope/js-plugin/lazyload.md)
-       * jquery.pagewalkthrough
+       * [jquery.pagewalkthrough](js-develope/js-plugin/jquerypagewalkthrough.md)
 
