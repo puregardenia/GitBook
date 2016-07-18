@@ -2,16 +2,15 @@
 
 > 图片加载等待功能
 
-### Alias: 
+### Alias:
 
 * jquery
-* spin.js(此插件已在jquery.loadImage.js引入)
+* spin.js\(此插件已在jquery.loadImage.js引入\)
 
-    >  spin.js:http://spin.js.org/
+  > spin.js:[http:\/\/spin.js.org\/](http://spin.js.org/)
 
 
 ### Usage:
-
 
 ```
 $("img").LoadImage({
@@ -25,9 +24,13 @@ $("img").LoadImage({
 ### Demo
 
 ```
-require('jquery');
-require('js/front/lib/jquery.loadImage');
-var $li = $("<li clickLink='http://112.124.127.214:2323/images/production/easydesign/simulateFabric/02_simulateFabric.jpg'><img /></li>");
-$li.find('img').LoadImage({'imgSrc':‘http://112.124.127.214:2323/images/production/easydesign/simulateFabric/01_simulateFabric_vr.jpg','container':'.simulationFabricImg',‘spin_size':'small'}); 
-
+require(['jquery',' js/front/lib/jquery.loadImage '],function($,loadImage){
+     var $li = $("<li clickLink='http://112.124.127.214:2323/images/production/easydesign/simulateFabric/02_simulateFabric.jpg'><img /></li>");
+     $li.find('img').LoadImage({
+        'imgSrc': 'http://112.124.127.214:2323/images/production/easydesign/simulateFabric/01_simulateFabric_vr.jpg',
+        'container': '.simulationFabricImg',
+        'spin_size': 'small'
+    }); 
+});
 ```
+
