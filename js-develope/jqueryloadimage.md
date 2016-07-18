@@ -7,12 +7,12 @@
 * jquery
 * spin.js\(此插件已在jquery.loadImage.js引入\)
 
-  > spin.js:[http:\/\/spin.js.org\/](http://spin.js.org/)
+  > spin.js:[http://spin.js.org/](http://spin.js.org/)
 
 
 ### Usage:
 
-```
+```javascript
 $("img").LoadImage({
  'imgSrc': 图片路径,
  'container': '显示等待图标的容器'
@@ -23,7 +23,7 @@ $("img").LoadImage({
 
 ### Demo
 
-```
+```javascript
 require(['jquery',' js/front/lib/jquery.loadImage '],function($,loadImage){
      var $li = $("<li clickLink='http://112.124.127.214:2323/images/production/easydesign/simulateFabric/02_simulateFabric.jpg'><img /></li>");
      $li.find('img').LoadImage({
@@ -33,4 +33,6 @@ require(['jquery',' js/front/lib/jquery.loadImage '],function($,loadImage){
     }); 
 });
 ```
+
+Url: `http://182.168.1.134:8180/html/easydesign/simulationFabric.html`
 
