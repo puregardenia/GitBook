@@ -25,6 +25,9 @@ $("img").LoadImage({
 ### Demo
 
 ```
- require('jquery');require('js/front/lib/jquery.loadImage');var $li = $("<li clickLink='http://112.124.127.214:2323/images/production/easydesign/simulateFabric/02_simulateFabric.jpg'><img /></li>");$li.find('img').LoadImage({'imgSrc':‘http://112.124.127.214:2323/images/production/easydesign/simulateFabric/01_simulateFabric_vr.jpg','container':'.simulationFabricImg',‘spin_size':'small'}); 
+require('jquery');
+require('js/front/lib/jquery.loadImage');
+var $li = $("<li clickLink='http://112.124.127.214:2323/images/production/easydesign/simulateFabric/02_simulateFabric.jpg'><img /></li>");
+$li.find('img').LoadImage({'imgSrc':‘http://112.124.127.214:2323/images/production/easydesign/simulateFabric/01_simulateFabric_vr.jpg','container':'.simulationFabricImg',‘spin_size':'small'}); 
 
 ```
