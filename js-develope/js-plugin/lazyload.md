@@ -2,9 +2,9 @@
 
 > 图片延时加载插件
 
-* Version: 1.8.5
-* Github: https://github.com/tuupola/jquery_lazyload
-* Website: http://www.appelsiini.net/projects/lazyload
+* Version: 1.9.7
+* Github: [https:\/\/github.com\/tuupola\/jquery\_lazyload](https://github.com/tuupola/jquery_lazyload)
+* Website: [http:\/\/www.appelsiini.net\/projects\/lazyload](http://www.appelsiini.net/projects/lazyload)
 
 ### Usage
 
