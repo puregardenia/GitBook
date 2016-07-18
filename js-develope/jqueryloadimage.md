@@ -7,7 +7,7 @@
 * jquery
 * spin.js\(此插件已在jquery.loadImage.js引入\)
 
-  > spin.js:[http://spin.js.org/](http://spin.js.org/)
+  > spin.js: [http://spin.js.org/](http://spin.js.org/)
 
 
 ### Usage:
