@@ -34,5 +34,5 @@ require(['jquery',' js/front/lib/jquery.loadImage '],function($,loadImage){
 });
 ```
 
-Url: `http://182.168.1.134:8180/html/easydesign/simulationFabric.html`
+Url: [Gulp](http://182.168.1.134:8180/html/easydesign/simulationFabric.html)
 
