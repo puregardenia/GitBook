@@ -3,7 +3,9 @@
 * [简介](README.md)
 * [JS开发](js-develope.md)
     * [rootConfig.js（项目全局配置项）](js-develope/rootconfig.md)
-    * [JS插件说明](js-develope/js-plugin.md)
+    * [JS Module（JS 模块开发）](js-module.md)
+    * [模块开发 重写](模块开发-重写.md)
+    * [JS Plugin Doc](js-develope/js-plugin.md)
         * [tools](js-develope/js-plugin/tools.md)
         * [jquery](js-develope/js-plugin/jquery.md)
         * [cookie](js-develope/js-plugin/cookie.md)
@@ -26,5 +28,4 @@
         * [jquery.lazyload](js-develope/js-plugin/lazyload.md)
         * [jquery.pagewalkthrough](js-develope/js-plugin/jquerypagewalkthrough.md)
         * [jquery.loadImage](js-develope/jqueryloadimage.md)
-    * [模块开发 重写](模块开发-重写.md)
 
