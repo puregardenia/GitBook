@@ -26,4 +26,5 @@
         * [jquery.lazyload](js-develope/js-plugin/lazyload.md)
         * [jquery.pagewalkthrough](js-develope/js-plugin/jquerypagewalkthrough.md)
         * [jquery.loadImage](js-develope/jqueryloadimage.md)
+    * [模块开发 重写](模块开发-重写.md)
 
