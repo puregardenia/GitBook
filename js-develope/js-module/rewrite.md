@@ -1,6 +1,6 @@
 # 模块开发重写
 
-``` javascript
+```javascript
 define(function(require, exports, module){
     
 });
