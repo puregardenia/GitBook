@@ -4,7 +4,7 @@
 * [JS开发](js-develope.md)
     * [rootConfig.js（项目全局配置项）](js-develope/rootconfig.md)
     * [JS Module（JS 模块开发）](js-module.md)
-    * [rewrite](js-develope/js-module/rewrite.md)
+        * [rewrite](js-develope/js-module/rewrite.md)
     * [JS Plugin Doc](js-develope/js-plugin.md)
         * [tools](js-develope/js-plugin/tools.md)
         * [jquery](js-develope/js-plugin/jquery.md)
