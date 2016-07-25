@@ -27,5 +27,5 @@
         * [jquery.twentytwenty](js-develope/js-plugin/jquerytwentytwenty.md)
         * [jquery.lazyload](js-develope/js-plugin/lazyload.md)
         * [jquery.pagewalkthrough](js-develope/js-plugin/jquerypagewalkthrough.md)
-        * [jquery.loadImage](js-develope/jqueryloadimage.md)
+        * [jquery.loadImage](js-develope/js-plugin/jqueryloadimage.md)
 
